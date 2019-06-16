@@ -1,0 +1,21 @@
+{
+    "name": "dark-roger",
+    "displayName": "dark-roger",
+    "description": "A dark theme for vscode made by rogers9798",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.35.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark-roger",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark-roger-color-theme.json"
+            }
+        ]
+    }
+}
