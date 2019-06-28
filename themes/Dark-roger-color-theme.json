@@ -7,13 +7,13 @@
 		"activityBarBadge.background": "#ff1131",
 		"sideBarTitle.foreground": "#f82b2b",
 		"sideBar.background": "#111416",
-		"sideBar.foreground": "#0099ff",
-		"statusBar.background": "#1da9e0",
+		"sideBar.foreground": "#00ffd5",
+		"statusBar.background": "#e01d2d",
 		"activityBar.background": "#152533",
 		"input.background": "#152f41",
 		"inputOption.activeBorder":"#9aff26",
 		"input.foreground": "#ffffff",
-		"titleBar.activeBackground": "#030202",
+		"titleBar.activeBackground": "#1b60b9",
 		"titleBar.activeForeground": "#ffffff",
 		"titleBar.inactiveBackground": "#030202"
 
